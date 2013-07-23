@@ -34,6 +34,7 @@ module CarrierWave
       use CarrierWave::Uploader::Download
       use CarrierWave::Uploader::Remove
       use CarrierWave::Uploader::ExtensionWhitelist
+      use CarrierWave::Uploader::ExtensionBlacklist
       use CarrierWave::Uploader::Processing
       use CarrierWave::Uploader::Versions
       use CarrierWave::Uploader::DefaultUrl
