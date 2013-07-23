@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name = "carrierwave"
-  s.version = "0.4.10"
+  s.version = "0.4.11"
 
   s.authors = ["Jonas Nicklas"]
   s.date = Date.today
